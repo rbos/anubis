@@ -1,6 +1,6 @@
 module github.com/TecharoHQ/anubis
 
-go 1.26.3
+go 1.27.3
 
 require (
 	cel.dev/cel-go v0.32.0
@@ -55,7 +55,7 @@ require (
 	github.com/Microsoft/go-winio v0.6.2 // indirect
 	github.com/ProtonMail/go-crypto v1.4.1 // indirect
 	github.com/Songmu/gitconfig v0.2.2 // indirect
-	github.com/TecharoHQ/yeet v0.12.1 // indirect
+	github.com/TecharoHQ/yeet v0.13.0 // indirect
 	github.com/Xe/erofs v0.6.1 // indirect
 	github.com/a-h/parse v0.0.0-20250122154542-74294addb73e // indirect
 	github.com/andybalholm/brotli v1.2.6 // indirect
